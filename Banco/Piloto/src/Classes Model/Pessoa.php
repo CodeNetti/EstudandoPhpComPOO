@@ -1,5 +1,5 @@
 <?php
-
+namespace ClassesModel;
 class Pessoa
 {
     protected String $nome;

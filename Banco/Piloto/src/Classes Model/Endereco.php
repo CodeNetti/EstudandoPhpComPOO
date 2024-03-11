@@ -1,5 +1,5 @@
-<?php 
-
+<?php
+namespace ClassesModel;
 class Endereco
 {
     private string $Estado;
