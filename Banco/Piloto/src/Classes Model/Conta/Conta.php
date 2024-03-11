@@ -1,5 +1,5 @@
 <?php
-namespace ClassesModel\Conta;
+namespace CodeNetti\Projetos\ClassesModel\Conta;
 class Conta
 {
     private $titular;

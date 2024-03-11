@@ -1,5 +1,5 @@
 <?php
-namespace ClassesModel\Conta;
+namespace CodeNetti\Projetos\ClassesModel\Conta;
 class Titular extends Pessoa
 {
     private $endereco;

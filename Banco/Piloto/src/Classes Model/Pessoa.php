@@ -1,5 +1,5 @@
 <?php
-namespace ClassesModel;
+namespace CodeNetti\Projetos\ClassesModel;
 class Pessoa
 {
     protected String $nome;
